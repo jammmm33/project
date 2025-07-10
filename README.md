@@ -2,4 +2,7 @@
 - 오늘도 좋은 하루 💙
 
 ## sourcetree 사용하기
--GUI로 add, commit, push, pull 하기
+-GUI로 add, commit, push, pull 
+
+## sourcetree 계정 변경
+-박보검 계정으로 변경
